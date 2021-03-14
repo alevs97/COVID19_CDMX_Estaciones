@@ -1,0 +1,12 @@
+name: Mapara_shiny_CDMX_COVID19
+title: Mapara_shiny_CDMX_COVID19
+username:
+account: alevs97
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3789652
+bundleId: 4344364
+url: https://alevs97.shinyapps.io/Mapara_shiny_CDMX_COVID19/
+when: 1615762394.90423
+asMultiple: FALSE
+asStatic: FALSE
